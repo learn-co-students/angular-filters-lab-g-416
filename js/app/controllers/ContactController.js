@@ -1,4 +1,6 @@
 function ContactController() {
+
+    this.search = "";
     this.contacts = [
         {
             "gender": "male",
